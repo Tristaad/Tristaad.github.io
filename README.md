@@ -1,2 +1,4 @@
-# Tristaad.github.io
-Creating a central, permanent home for my project. The repository I create will be the foundation for all my future work and will also function as a public portfolio piece.
+# Professional Portfolio
+This is a personal portfolio created as a foundation for all of my current and future work, and it will help showcase my own projects, highlight my skills, and present a professional background.
+
+### Live Link to Site: https://tristaad.github.io/
