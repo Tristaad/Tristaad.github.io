@@ -41,6 +41,8 @@ This project is a two-page personal portfolio website for Tristan Adame. The web
 
 TAME is a framework for thinking through how to respond to project risks. The four options are Transfer, Accept, Mitigate, and Eliminate. For this project, I will use TAME to think through risks that could affect my final website, documentation, and GitHub submission.
 
+
+
 #### Transfer
 
 Transfer means shifting the risk to another person, tool, or system when possible.
