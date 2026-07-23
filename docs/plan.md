@@ -41,63 +41,6 @@ This project is a two-page personal portfolio website for Tristan Adame. The web
 
 TAME is a framework for thinking through how to respond to project risks. The four options are Transfer, Accept, Mitigate, and Eliminate. For this project, I will use TAME to think through risks that could affect my final website, documentation, and GitHub submission.
 
-### Specific Project Risks and TAME Responses
-
-#### Risk 1, Running Out of Time
-
-One risk for this project is running out of time before all required files and documentation are complete.
-
-- Transfer would not be very effective because this is an individual project, and I cannot pass the main work to someone else.
-- Accept could apply if I have to accept that the final design may not be perfect as long as the required parts are completed.
-- Mitigate would be the strongest response because I can reduce the risk by finishing the required files first, checking the project checklist, and saving extra improvements for later.
-- Eliminate could help by removing unnecessary extras, such as advanced design features or additional pages.
-
-For this risk, Mitigate is the best response because it helps me stay focused on the required work before worrying about smaller details.
-
-#### Risk 2, Broken Links or File Connections
-
-Another risk is having broken links between the homepage, the about page, the stylesheet, the live site, or the docs folder.
-
-- Transfer would not be very effective because I am responsible for making sure my own links work.
-- Accept would not be a good response because broken links could make the project look unfinished or cause required parts to be hard to find.
-- Mitigate would be effective because I can test each link before submitting the project.
-- Eliminate could help by keeping the file structure simple and using clear file names like index.html, about.html, style.css, and docs.
-
-For this risk, Mitigate and Eliminate are the best responses because testing the links and keeping the structure simple can prevent the problem from becoming larger.
-
-#### Risk 3, GitHub Pages Not Displaying Correctly
-
-A technical risk is that the live GitHub Pages website may not update or display the way I expect.
-
-- Transfer can help a little because GitHub Pages handles the hosting instead of me needing to create a separate hosting setup.
-- Accept may apply if there is a short delay before the live website updates, as long as the final version works before submission.
-- Mitigate would be useful because I can test the live website early and check it again before submitting.
-- Eliminate would not fully apply because I cannot remove the need to publish or test the website.
-
-For this risk, Mitigate is the best response, with some limited help from Transfer because GitHub Pages handles the publishing system.
-
-#### Risk 4, Scope Creep
-
-Another risk is adding too much to the website and making the project larger than required.
-
-- Transfer would not be useful because scope control is my responsibility.
-- Accept would not be the best choice because allowing too many extra features could make the project harder to finish.
-- Mitigate could help by checking the scope statement and project requirements before adding anything extra.
-- Eliminate would be the strongest response because I can remove unnecessary features from the plan completely.
-
-For this risk, Eliminate is the best response because the project is supposed to stay focused on a simple two-page portfolio website.
-
-#### Risk 5, Small Design or Formatting Issues
-
-A smaller risk is having minor design or formatting problems, such as spacing that is not perfect or a page that looks simple.
-
-- Transfer would not really apply because design choices are part of my own project.
-- Accept could be useful because small design issues may not matter if the website is still readable, organized, and functional.
-- Mitigate could also help because I can use the same stylesheet for both pages and keep the design consistent.
-- Eliminate would not fully apply because no website design will be completely perfect.
-
-For this risk, Accept and Mitigate are the best responses because the design should be clear and consistent, but it does not need to be overly advanced.
-
 #### Transfer
 
 Transfer means shifting the risk to another person, tool, or system when possible.
