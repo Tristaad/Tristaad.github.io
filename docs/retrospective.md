@@ -1,6 +1,5 @@
 # Project Retrospective
 
-
 ## What Went Well
 
 One thing that went well during this project was that I already had a starting foundation from earlier coursework. I had an existing GitHub repository, README.md file, index.html file, and style.css file, so I was not starting completely from scratch. This helped make the final project feel more manageable.
