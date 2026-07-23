@@ -17,8 +17,8 @@ The completed project will include a single public GitHub repository with a clea
 - A professional README.md file that explains the project purpose
 - A live website link included in the README.md
 - A link to the documentation folder included in the README.md
-- An index.html file for the homepage
-- An about.html file for the second page
+- An index.html file for the homepage, including a short introduction, my academic focus, my interests, and a link to the about page
+- An about.html file for the second page, including content about my academic background, developing skills, career direction, and a link back to the homepage
 - A style.css file used by both HTML pages
 - A docs/ folder for project documentation
 - A scope.md file with the revised project scope statement located in the docs/ folder
