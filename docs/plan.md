@@ -6,7 +6,7 @@ This project is a two-page personal portfolio website for Tristan Adame. The web
 
 ## Work Breakdown Structure
 
-### TAME Risk Analysis
+## TAME Risk Analysis
 
 TAME is a framework for thinking through how to respond to project risks. The four options are Transfer, Accept, Mitigate, and Eliminate. For this project, I will use TAME to think through risks that could affect my final website, documentation, and GitHub submission.
 
