@@ -14,7 +14,7 @@ Transfer means shifting the risk to another person, tool, or system when possibl
 
 For this project, transfer is not the strongest option because I am responsible for completing most of the work myself. However, I can rely on tools like GitHub Pages, Visual Studio Code, and GitHub Desktop to handle parts of the technical process instead of trying to manage everything manually.
 
-### Accept
+#### Accept
 
 Accept means recognizing that a risk exists and choosing to continue with the project anyway.
 
