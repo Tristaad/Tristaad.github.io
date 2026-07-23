@@ -20,7 +20,7 @@ Accept means recognizing that a risk exists and choosing to continue with the pr
 
 For this project, I may have to accept small design issues or minor formatting problems if they do not stop the website from working or meeting the assignment requirements.
 
-### Mitigate
+#### Mitigate
 
 Mitigate means reducing the chance or impact of a risk before it becomes a bigger problem.
 
