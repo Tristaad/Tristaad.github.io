@@ -32,7 +32,7 @@ Eliminate means removing the risk completely by changing the plan.
 
 For this project, I can eliminate some risks by not adding advanced features like JavaScript, animations, forms, or extra pages. Keeping the project limited to the required two-page website and documentation files will help prevent scope creep.
 
-## Most Effective TAME Responses for This Project
+### Most Effective TAME Responses for This Project
 
 The most effective TAME responses for this project will be Mitigate and Eliminate. Mitigate will help me stay on track by checking the requirements early and often. Eliminate will help me avoid making the project too large by keeping the website simple and focused on the required files.
 
