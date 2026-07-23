@@ -34,4 +34,9 @@ I would also test the live website and links earlier. Checking the homepage, abo
 
 Overall, this project helped me practice treating a small website like a managed project instead of only a coding assignment. I had to think about scope, risks, required files, page content, documentation, and final testing. The project also forced me to adjust when my original work plan did not go perfectly.
 
-Even though it became a bit of a rush to get everything done, I managed to accomplish the project in the end. I am proud of how polished it looks, especially because the project had to be completed while dealing with other responsibilities and physical discomfort. The website is still a simple student portfolio, but it gives me a starting point that I can continue improving as I build more skills and complete more work in the future.
+Even though it became a bit of a rush to get everything done, I managed to
+accomplish the project in the end. I am proud of how polished and profrssional it looks,
+especially because the project had to be completed while dealing with other
+responsibilities and physical discomfort. The website is still a simple student
+portfolio, but it gives me a starting point that I can continue improving as I
+build more skills and complete more work in the future.
