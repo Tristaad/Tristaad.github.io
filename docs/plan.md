@@ -8,7 +8,7 @@ This project is a two-page personal portfolio website for Tristan Adame. The web
 
 ### Existing Project Foundation
 
-- Use the existing public GitHub Pages repository
+- Use the existing public GitHub repository
 - Keep the existing README.md file and update it for the final project
 - Build from the existing index.html homepage
 - Build from the existing style.css stylesheet
