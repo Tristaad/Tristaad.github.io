@@ -64,7 +64,7 @@ The following items are out of scope for this project:
 The project must be completed within the course schedule and submitted by the assigned deadline. Because this project includes both a website and planning documents, the work will need to be divided into smaller tasks instead of being completed all at once. No extra time beyond the course schedule should be needed unless unexpected complications arise.
 
 #### **Quality:**
-The project must meet the minimum expectations listed in the Project 03 instructions and score well on the rubric. The website should be clear, readable, organized, and functional. The repository should also be professional enough that another person can understand the project purpose, file structure, and documentation. Everything will need to be completed while adhering to the templates, have a proper depth of analysis, have a realistic and achievable scope, and be properly formatted and submitted.
+The project must meet the minimum expectations listed in the Project 03 instructions and score well on the rubric. The website should be clear, readable, organized, and functional. The repository should also be professional enough that another person can understand the project purpose, file structure, and documentation. Everything will need to be completed while adhering to the templates, showing a proper depth of analysis, keeping a realistic and achievable scope, and being properly formatted and submitted.
 
 #### **Budget:**
 The project will have no financial budget and will need no financial budget. It will use free tools and resources, including Visual Studio Code, GitHub, GitHub Desktop, and course materials.
