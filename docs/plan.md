@@ -36,7 +36,7 @@ For this project, I can eliminate some risks by not adding advanced features lik
 
 The most effective TAME responses for this project will be Mitigate and Eliminate. Mitigate will help me stay on track by checking the requirements early and often. Eliminate will help me avoid making the project too large by keeping the website simple and focused on the required files.
 
-## Least Effective TAME Responses for This Project
+### Least Effective TAME Responses for This Project
 
 The least effective response for this project will probably be Transfer. Since this is an individual class project, I cannot transfer much of the responsibility to another person. I can use tools to make the work easier, but I am still responsible for completing and submitting the final project.
 
