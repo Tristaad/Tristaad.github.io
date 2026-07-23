@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+This project is a two-page personal portfolio website for Tristan Adame. The website will include a homepage, an about page, one shared stylesheet, and required project documentation in a public GitHub repository. This plan explains the main tasks, risks, and schedule I will use to complete the project.
+
 ## Work Breakdown Structure
 
 ### TAME Risk Analysis
