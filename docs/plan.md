@@ -8,7 +8,7 @@
 
 TAME is a framework for thinking through how to respond to project risks. The four options are Transfer, Accept, Mitigate, and Eliminate. For this project, I will use TAME to think through risks that could affect my final website, documentation, and GitHub submission.
 
-### Transfer
+#### Transfer
 
 Transfer means shifting the risk to another person, tool, or system when possible.
 
