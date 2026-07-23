@@ -3,3 +3,5 @@ This is a personal portfolio created as a foundation for all of my current and f
 
 ### Live Link to Site: [tristaad.github.io](https://tristaad.github.io/)
 
+### Project Documentation
+[View the docs folder](docs/)
