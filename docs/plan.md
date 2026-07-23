@@ -26,7 +26,7 @@ Mitigate means reducing the chance or impact of a risk before it becomes a bigge
 
 For this project, mitigation will probably be the most useful response. I can reduce risk by checking the project checklist often, testing links, keeping the website simple, and making sure the required files are completed before adding extra details.
 
-### Eliminate
+#### Eliminate
 
 Eliminate means removing the risk completely by changing the plan.
 
