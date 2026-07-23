@@ -77,6 +77,6 @@ I am assuming that a simple two-page student portfolio is an acceptable topic be
 Finally, I am assuming that there will be no complications; whether technological, physical, or in my actual life, that would either shorten or postpone the time I can work on this project.
 
 ## _Success Criteria_
-This project will be successful if the final repository contains all required files and folders, the website has two working pages, and both pages use the same external CSS file. The project will also be successful if the README.md clearly explains the purpose of the project and links to the live website and documentation folder.
+This project will be successful if the final repository contains all required files and folders, the website has two working pages with meaningful portfolio content, and both pages use the same external CSS file. The project will also be successful if the README.md clearly explains the purpose of the project and links to the live website and documentation folder.
 
 The scope document will be successful if it clearly explains what the project is, what it will deliver, what is not included, and what limits or assumptions affect the work. The overall project should show that I can plan, organize, build, and reflect on a small digital project from start to finish.
