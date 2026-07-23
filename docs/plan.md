@@ -74,3 +74,35 @@ The most effective TAME responses for this project will be Mitigate and Eliminat
 The least effective response for this project will probably be Transfer. Since this is an individual class project, I cannot transfer much of the responsibility to another person. I can use tools and resources to make the work easier, but I am still responsible for completing and submitting the final project.
 
 ## Task Schedule
+
+### Step 1
+
+Start with the existing GitHub Pages repository, README.md, index.html, and style.css files from earlier coursework.
+
+### Step 2
+
+Update the README.md file by keeping the live website link and adding a link to the docs folder.
+
+### Step 3
+
+Create the about.html file as the required second page. Add content about my academic background, developing skills, and career direction. Connect the page to style.css, add a link from index.html to about.html, and add a link from about.html back to index.html.
+
+### Step 4
+
+Update style.css as needed so the homepage and about page use the same visual style, including the same colors, fonts, borders, and spacing.
+
+### Step 5
+
+Create the docs folder and add the required documentation files, including scope.md, plan.md, and retrospective.md. Revise scope.md based on peer feedback and any changes made during the final project.
+
+### Step 6
+
+Complete plan.md using the TAME framework, Work Breakdown Structure, risk analysis, and task schedule.
+
+### Step 7
+
+Complete retrospective.md after the main website and documentation files are finished.
+
+### Step 8
+
+Test the live website, check all links, confirm the repository structure, and submit the GitHub repository URL in Canvas.
