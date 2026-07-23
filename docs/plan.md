@@ -30,7 +30,7 @@ This project is a two-page personal portfolio website for Tristan Adame. The web
 
 ### Testing and Submission
 
-- Check that the README.md includes the live website link
+- Check that the README.md live website link works
 - Check that the README.md includes a link to the docs folder
 - Test the live GitHub Pages site
 - Test the links between index.html and about.html
