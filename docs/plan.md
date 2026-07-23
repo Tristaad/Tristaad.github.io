@@ -6,6 +6,42 @@ This project is a two-page personal portfolio website for Tristan Adame. The web
 
 ## Work Breakdown Structure
 
+### Repository Setup
+
+- Confirm the GitHub repository is public
+- Check that the root folder contains the required website files
+- Add or update the README.md file
+- Include links to the live website and docs folder in README.md
+
+### Website Files
+
+- Update index.html as the homepage
+- Create about.html as the second page
+- Link index.html to about.html
+- Link about.html back to index.html
+- Make sure both pages use style.css
+
+### Styling
+
+- Use one external style.css file
+- Apply consistent colors, fonts, borders, spacing, and layout choices
+- Make sure both pages look like part of the same website
+
+### Documentation
+
+- Add a docs folder
+- Add scope.md
+- Add plan.md
+- Add retrospective.md
+- Revise scope.md based on feedback and project progress
+
+### Testing and Submission
+
+- Test the live website link
+- Test the navigation between pages
+- Check that all required files and folders are present
+- Submit the GitHub repository URL in Canvas
+
 ## TAME Risk Analysis
 
 TAME is a framework for thinking through how to respond to project risks. The four options are Transfer, Accept, Mitigate, and Eliminate. For this project, I will use TAME to think through risks that could affect my final website, documentation, and GitHub submission.
