@@ -38,6 +38,9 @@ The most effective TAME responses for this project will be Mitigate and Eliminat
 
 ### Least Effective TAME Responses for This Project
 
-The least effective response for this project will probably be Transfer. Since this is an individual class project, I cannot transfer much of the responsibility to another person. I can use tools to make the work easier, but I am still responsible for completing and submitting the final project.
+The least effective response for this project will probably be Transfer. Since
+this is an individual class project, I cannot transfer much of the
+responsibility to another person. I can use tools and resources to make the work easier, but
+I am still responsible for completing and submitting the final project.
 
 ## Task Schedule
