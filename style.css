@@ -32,10 +32,11 @@ ul {
 }
 
 div {
-    width: 90px;
+    width: 200px;
     height: 20px;
     background-color: #d4ccbb;
     border: 6px solid #3a49a7;
     padding: 20px;
     margin: 100px auto;
+    text-align: center;
 }
